@@ -16,6 +16,7 @@ I'm **Khanh Hoang (Qimatx) Nguyen**, based in Sydney, Australia. I'm looking for
 - **Inetzero — Data Labelling / Map Analyst** · March–August 2024. Data annotation and quality checks, in collaboration with Enveritas.
 - **FPT Information System — Business Analyst Intern** · August–December 2021. Requirements documentation, user guides and user acceptance testing support.
 - **University of Technology Sydney** · Master of Data Science and Innovation, February 2025–November 2026.
+- **University of Greenwich** · Bachelor of Science in Computing, September 2019–September 2023.
 
 ## Project highlights
 
