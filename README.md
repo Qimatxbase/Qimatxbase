@@ -23,7 +23,7 @@ I'm **Khanh Hoang (Qimatx) Nguyen**, based in Sydney, Australia. I'm looking for
 - **[NSW Road Safety Dashboard](https://github.com/Qimatxbase/nsw_road_safety_dashboard)** — Interactive crash analysis across 130 local government areas. [Case study](https://qimatxbase.github.io/project.html?id=nsw)
 - **[Airbnb and Census Analytics Pipeline](https://github.com/Qimatxbase/airbnb_census_pipeline)** — Airflow ingestion, SQL/dbt transformations and reporting marts. [Case study](https://qimatxbase.github.io/project.html?id=airbnb)
 - **[Video Event Search and Evaluation](https://github.com/Qimatxbase/video_event_search)** — Annotation-grounded evaluation of retrieval, relevance and temporal alignment in a team video-search project. [Case study](https://qimatxbase.github.io/project.html?id=video)
-- **[Tesla Market Research and Customer Insights](https://github.com/Qimatxbase/ev_customer_insights)** — Secondary market research, customer-review NLP and research design. [Case study](https://qimatxbase.github.io/project.html?id=tesla)
+- **[Tesla Market Research and Customer Insights](https://github.com/Qimatxbase/ev_customer_insights)** — Market research and AI-assisted analysis of existing reviews, cross-checked with VADER sentiment, thematic coding and rating validation. [Case study](https://qimatxbase.github.io/project.html?id=tesla)
 
 ## Contact
 
