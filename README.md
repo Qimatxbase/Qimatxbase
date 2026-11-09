@@ -1,4 +1,4 @@
-# Hi, I'm Hoang 👋
+# Hi, I'm Hoang
 
 I'm **Khanh Hoang (Qimatx) Nguyen**, based in Sydney, Australia. I'm looking for a **Data Analyst** role where I can clean and analyse complex datasets, uncover patterns and communicate findings through clear, interactive visualisations.
 
