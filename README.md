@@ -1,6 +1,6 @@
 # Hi, I'm Hoang 👋
 
-I'm **Khanh Hoang (Qimatx) Nguyen**, based in Sydney, Australia. I'm looking for a **Data Analyst** role where I can use Python and SQL to clean and analyse complex datasets, uncover patterns and communicate findings through clear, interactive visualisations.
+I'm **Khanh Hoang (Qimatx) Nguyen**, based in Sydney, Australia. I'm looking for a **Data Analyst** role where I can clean and analyse complex datasets, uncover patterns and communicate findings through clear, interactive visualisations.
 
 **[View my portfolio](https://qimatxbase.github.io/)** · [All projects](https://qimatxbase.github.io/projects.html) · [Download CV](https://qimatxbase.github.io/assets/Resume_KhanhHoang_DataAnalyst.pdf)
 
